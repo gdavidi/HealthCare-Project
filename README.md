@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gdavidi/HealthCare-Project">
-    <img src="images/logo.png" alt="Logo" width="300" height=300">
+    <img src="images/logo.png" alt="Logo" width="200" height=300">
   </a>
 
 <h3 align="center">MIMIC-III Clinical Database Demo Analysis</h3>
