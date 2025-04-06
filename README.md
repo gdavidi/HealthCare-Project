@@ -12,8 +12,7 @@
 
 ## About The Project
 
-In this project you will find an implementation of both Supervised and Unsupervised learning algorithms.  
-Our main motivation was to look for meaningful insights about the unemployed rate in the various cities in Israel.
+In this project you will find a ER (Entity Relationship) implementation in python and basic analysis looking for correaltions. 
 
 <!-- Dataset -->
 
